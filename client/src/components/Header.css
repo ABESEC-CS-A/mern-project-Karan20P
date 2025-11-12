@@ -1,0 +1,6 @@
+.header {
+  background-color: rgb(71, 70, 70);
+  color: whitesmoke;
+  display: flex;
+  justify-content: center;
+}
